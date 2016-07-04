@@ -15,7 +15,7 @@ A simple Angular webpack starter with es6.
 
 ```bash
 # clone our repo
-$ git clone TBD
+$ git clone https://github.com/eduzambl/es6Seed
 
 # change directory to your app
 $ cd es6seed
